@@ -2,14 +2,31 @@
     <channel>
         <title><![CDATA[Margo & Todd]]></title>
         <description><![CDATA[Margo & Todd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/margo-and-todd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 17:03:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Jan 2016 17:04:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/margo-and-todd/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Practice Random Acts of Kindness.]]></title>
+            <description><![CDATA[<article><h1>Practice Random Acts of Kindness.</h1><p>1. Practice Random Acts of Kindness.
+We strive to create an emotional connection with our clients, employees, vendors and community. We do this by providing an unexpected level of personal service. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/52549570-7252-4b78-a654-6afb6fe53ac1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/margo-and-todd/practice-random-acts-of-kindness/index.html</link>
+            <guid isPermaLink="false">697b6f71-3e72-416a-90af-a1c2df1185fb</guid>
+            <pubDate>Mon, 25 Jan 2016 17:03:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I am not a graphic designer]]></title>
+            <description><![CDATA[<article><h1>I am not a graphic designer</h1><p>Yes, I said it. "I am not a graphic designer”. 
+
+I am not the guy who makes your logo, I am not the guy who lays out your website, designs your marketing campaign. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e51192796faf711ad5effda78a9ae211f7cf8a6.jpg"></article>]]></description>
+            <link>https://thegrid.ai/margo-and-todd/i-am-not-a-graphic-designer/index.html</link>
+            <guid isPermaLink="false">6753be3a-4e86-4079-ae23-b0527737f159</guid>
+            <pubDate>Mon, 25 Jan 2016 17:03:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Is Running Lean?]]></title>
             <description><![CDATA[<article><h1>What Is Running Lean?</h1><p>We live in an age of unparalleled opportunity for innovation. With the advent of the Internet, cloud computing, and open source software, the cost of building products is at an all-time low. Yet, the odds of building successful startups haven’t improved much.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c93dc6ed0f6ba7d5f728ff28f3ece04521cf8983.jpg"></article>]]></description>
-            <link>undefinedwhat-is-running-lean/index.html</link>
+            <link>https://thegrid.ai/margo-and-todd/what-is-running-lean/index.html</link>
             <guid isPermaLink="false">b2976935-6bf8-4f99-9f99-133594287144</guid>
             <pubDate>Mon, 25 Jan 2016 17:03:39 GMT</pubDate>
         </item>
