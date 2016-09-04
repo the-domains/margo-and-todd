@@ -1,19 +1,4 @@
-name: 'Margo & Todd'
-favicon: null
-layout_spectrum: 0.674062489066273
 typography_spectrum: 0.2254253977444023
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#E0FBFC'
@@ -25,4 +10,20 @@ color:
   lightness: 0.9434975311160088
   saturation: 0.5857380446977913
   rhythmicContrast: 0.19547497224994004
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.674062489066273
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Margo & Todd
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Margo loves Todd. Todd loves Margo.
 purpose: []
